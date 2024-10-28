@@ -141,17 +141,17 @@ def import_torchvision_dataset(dataset_name: str, model, preprocess, images_coll
 ## Screenshots 📸
 
 1. **Main search interface**
-![Search Interface](./images/search_interface.png)
+![Search Interface](https://github.com/abojotemi/Multimedia-Search-Engine/blob/36fc978555b716534e3a2c23231a41b91f14594e/images/search_interface.jpg)
 
 
 2. **Results display**
-![Result Display](./images/result_display.png)
+![Result Display](https://github.com/abojotemi/Multimedia-Search-Engine/blob/36fc978555b716534e3a2c23231a41b91f14594e/images/result_display.jpg)
 
 
 3. **Database management interface**
-![Database Management Interface](./images/dashboard_interface.png)
+![Database Management Interface](https://github.com/abojotemi/Multimedia-Search-Engine/blob/36fc978555b716534e3a2c23231a41b91f14594e/images/dashboard_interface.jpg)
 
 
 4. **Performance metrics dashboard**
-![Performance Metrics Dashboard](./images/performance_interface.png)
+![Performance Metrics Dashboard](https://github.com/abojotemi/Multimedia-Search-Engine/blob/36fc978555b716534e3a2c23231a41b91f14594e/images/performance_interface.jpg)
 
