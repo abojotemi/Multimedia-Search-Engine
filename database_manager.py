@@ -1,4 +1,3 @@
-# File: database_manager.py
 import streamlit as st
 from pathlib import Path
 from PIL import Image

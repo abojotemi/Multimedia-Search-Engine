@@ -1,4 +1,3 @@
-# File: app.py
 import streamlit as st
 import chromadb
 import torch

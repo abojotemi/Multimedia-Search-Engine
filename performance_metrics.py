@@ -1,4 +1,3 @@
-# File: performance_metrics.py
 import streamlit as st
 import time
 from collections import deque

@@ -1,4 +1,3 @@
-# File: search_interface.py
 import streamlit as st
 import torch
 import clip
