@@ -141,17 +141,17 @@ def import_torchvision_dataset(dataset_name: str, model, preprocess, images_coll
 ## Screenshots 📸
 
 1. **Main search interface**
-![Screenshot](./images/search_interface.png)
+![Search Interface](./images/search_interface.png)
 
 
 2. **Results display**
-![Screenshot](./images/result_display.png)
+![Result Display](./images/result_display.png)
 
 
 3. **Database management interface**
-![Screenshot](./images/dashboard_interface.png)
+![Database Management Interface](./images/dashboard_interface.png)
 
 
 4. **Performance metrics dashboard**
-![Screenshot](./images/performance_interface.png)
+![Performance Metrics Dashboard](./images/performance_interface.png)
 
