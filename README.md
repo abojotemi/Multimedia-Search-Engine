@@ -139,6 +139,7 @@ def import_torchvision_dataset(dataset_name: str, model, preprocess, images_coll
 - Automatic cache invalidation
 
 ## Screenshots 📸
+
 ### [Link to Screenshots](https://drive.google.com/drive/folders/1OIrFoP_ykPiqYf9REnpPfoQaxPbr1Yj0?usp=sharing)
 
 1. **Main search interface**
