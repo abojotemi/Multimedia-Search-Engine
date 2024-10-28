@@ -150,7 +150,7 @@ def import_torchvision_dataset(dataset_name: str, model, preprocess, images_coll
 
 
 3. **Database management interface**
-![Database Management Interface](images/dashboard_interface.jpg)
+![Database Management Interface](images/database_interface.jpg)
 
 
 4. **Performance metrics dashboard**
