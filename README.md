@@ -139,19 +139,20 @@ def import_torchvision_dataset(dataset_name: str, model, preprocess, images_coll
 - Automatic cache invalidation
 
 ## Screenshots 📸
+### [Link to Screenshots](https://github.com/abojotemi/Multimedia-Search-Engine/tree/aba693636693c32c57b6fddda8cc7de97c79718d/images)
 
 1. **Main search interface**
-![Search Interface](https://github.com/abojotemi/Multimedia-Search-Engine/blob/36fc978555b716534e3a2c23231a41b91f14594e/images/search_interface.jpg)
+![Search Interface](images/search_interface.jpg)
 
 
 2. **Results display**
-![Result Display](https://github.com/abojotemi/Multimedia-Search-Engine/blob/36fc978555b716534e3a2c23231a41b91f14594e/images/result_display.jpg)
+![Result Display](images/result_display.jpg)
 
 
 3. **Database management interface**
-![Database Management Interface](https://github.com/abojotemi/Multimedia-Search-Engine/blob/36fc978555b716534e3a2c23231a41b91f14594e/images/dashboard_interface.jpg)
+![Database Management Interface](images/dashboard_interface.jpg)
 
 
 4. **Performance metrics dashboard**
-![Performance Metrics Dashboard](https://github.com/abojotemi/Multimedia-Search-Engine/blob/36fc978555b716534e3a2c23231a41b91f14594e/images/performance_interface.jpg)
+![Performance Metrics Dashboard](images/performance_interface.jpg)
 
